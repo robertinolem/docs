@@ -1,6 +1,7 @@
 # Exporter Shopware 6
 
 ---------------------
+WARNING! This connector works only with Shopware 6.3. Version Shopware 6.4 is not supported and will not work.
 
 ## Introduction
 
